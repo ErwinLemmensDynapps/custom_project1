@@ -50,5 +50,5 @@ Maintainer
    :alt: Dynapps nv
    :target: https://www.dynapps.be
 
-This module is maintained by the Dynapps.
+This module is maintained by the Dynapps. 
 
